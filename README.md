@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Orestes
+- I am greatly interested in Artificial Intelligence and Databases
+- I'm currently a senior at the University of South Florida
